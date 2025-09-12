@@ -62,8 +62,9 @@
 - 💬 Aberto a colaborações, projetos, freelas e conexões!
 
 ---
+### 📈 Mapa de Contribuições Animado
 
-<div align="center"> Em constante evolução, Vamos codar juntos?</div>
+![Snake animation](https://github.com/AlyssonDev1914/AlyssonDev1914/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
