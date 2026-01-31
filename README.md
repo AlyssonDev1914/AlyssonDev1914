@@ -15,7 +15,7 @@
 - 💡 Amo compartilhar conhecimento e ajudar iniciantes
 - ✝️ Cristão, também crio conteúdos devocionais no youtube e redes sociais 
 
-📫 Contato: **alyssondev1914@gmail.com**  
+📫 Contato: **alyssonradiola@hotmail.com**  
 🌍 Portfólio: [em construção](https://www.alyssondev1914.github.io/)  
 🔗 LinkedIn: [https://www.linkedin.com/in/alysson-araujo-6a5b5b328/](https://www.linkedin.com/in/alyssondev1)
 
