@@ -37,16 +37,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlyssonDev1914&show_icons=true&theme=github_dark&locale=pt-br" alt="Estatísticas Alysson" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonDev1914&layout=compact&theme=github_dark&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🏆 Conquistas
 
 - Participante de desafios de lógica 
@@ -57,16 +47,9 @@
 
 ### ✨ Curiosidades
 
-- 🎯 Meta: conseguir minha **primeiro vaga como desenvolvedor júnior**
 - 🧠 Estudando intensivamente para **dominar JavaScript e frameworks modernos**
 - 💬 Aberto a colaborações, projetos, freelas e conexões!
 
----
-### 📈 Mapa de Contribuições Animado
-
-![Snake animation](https://github.com/AlyssonDev1914/AlyssonDev1914/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AlyssonDev1914&label=Profile%20views&color=0e75b6&style=flat" alt="AlyssonDev1914" />
